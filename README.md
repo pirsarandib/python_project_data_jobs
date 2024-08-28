@@ -20,6 +20,7 @@ The data used in this project was obtained from  [Luke barausse](https://hugging
 
 ### Number of Jobs by Job Title
 ![](https://github.com/pirsarandib/python_project_data_jobs/blob/main/image/1_number%20of%20jobs%20by%20job%20title.png)
+
 This bar chart visualizes the distribution of job postings across various data roles. The top three roles in demand are:
 
 -- **Data Analyst**
@@ -28,6 +29,7 @@ This bar chart visualizes the distribution of job postings across various data r
 
 ### Median Salary by Job Title
 ![](https://github.com/pirsarandib/python_project_data_jobs/blob/main/image/2_median%20salary%20by%20job%20title.png)
+
 This visualization shows the median salary for different job titles. The top three highest-paying roles are:
 
 -- **Senior Data Scientist**
@@ -36,6 +38,7 @@ This visualization shows the median salary for different job titles. The top thr
 
 ### Top 10 Job Titles: Remote vs. On-site Roles
 ![](https://github.com/pirsarandib/python_project_data_jobs/blob/main/image/3_top%20ten%20companies.png)
+
 Two side-by-side bar charts compare the top 10 job titles for remote and non-remote roles. Key insights include:
 
 -- **Remote Jobs**: Data Engineer, Data Scientist, and Data Analyst are the top 3 roles.
@@ -44,12 +47,14 @@ Two side-by-side bar charts compare the top 10 job titles for remote and non-rem
 
 ### Top 10 Companies: Number of Remote vs. Non-Remote Roles
 ![](https://github.com/pirsarandib/python_project_data_jobs/blob/main/image/4_top%20ten%20job%20titles.png)
+
 This set of bar charts displays the number of remote vs. On-site roles offered by the top 10 companies.
 
 
 ### Percentage of Jobs Mentioning Degree Requirements by Job Title
 ![](https://github.com/pirsarandib/python_project_data_jobs/blob/main/image/5_1%20mentioning%20degree.jpg)
 ![](https://github.com/pirsarandib/python_project_data_jobs/blob/main/image/5_2%20mentioning%20degree.png)
+
 A detailed analysis of how often degree requirements are mentioned in job postings across different roles. The top three roles with the highest percentage of postings that do not mention degree requirements are:
 
 -- **Senior Data Scientist (94.18%)**
@@ -63,10 +68,12 @@ After analyzing various data roles, the focus shifts to Data Analyst positions s
 
 ### Salary Distribution for Data Analyst Roles in the U.S.
 ![](https://github.com/pirsarandib/python_project_data_jobs/blob/main/image/6_salary%20distribution.png)
+
 The salary distribution for Data Analyst roles in the U.S. shows a wide range, with a significant concentration around the median, indicating typical earnings. The analysis highlights outliers representing high earners, likely tied to specialized skills or high-cost locations. 
 
 ### Distribution of Job Schedule Type, Work-from-Home Status, and Health Insurance Benefits
 ![](https://github.com/pirsarandib/python_project_data_jobs/blob/main/image/7_distribution%20of...%20.png)
+
 Three pie charts visualize:
 
 -- **Job Schedule Types** (full-time, contract)
@@ -77,21 +84,25 @@ The distribution analysis reveals that most Data Analyst roles are full-time, wi
 
 ### Top 10 Companies: Number of Remote vs. On-Site Data Analyst Roles 
 ![](https://github.com/pirsarandib/python_project_data_jobs/blob/main/image/8_top%2010%20companies.png)
+
 The analysis of the top 10 companies shows a clear distinction in their hiring strategies for Data Analyst roles. Some companies have a strong focus on remote positions, reflecting a commitment to flexible work environments, while others prioritize on-site roles
 
 
 ### Top 5 Job Posting Sources by Percentage
 ![](https://github.com/pirsarandib/python_project_data_jobs/blob/main/image/9_top%205%20job%20sources.png)
+
 A bar chart highlighting the top 5 job posting sources, with LinkedIn being the leading source.
 
 
 ### Top 5 U.S. Job Locations for Non-Remote Data Analyst Roles
 ![](https://github.com/pirsarandib/python_project_data_jobs/blob/main/image/10_top%20five%20job%20location.png)
+
 This bar chart displays the top 5 U.S. cities for On-Site Data Analyst roles, with New York, Atlanta, and Chicago leading.
 
 
 ###  Most Demanded Skills for Data Analyst Roles
 ![](https://github.com/pirsarandib/python_project_data_jobs/blob/main/image/11_most%20demand%20skills.png)
+
 The analysis identifies SQL, Excel, Tableau, Python, and SAS as the most in-demand skills for Data Analyst roles. These skills are crucial for data manipulation, analysis, and visualization
 
 
