@@ -18,7 +18,8 @@ The data used in this project was obtained from  [Luke barausse](https://hugging
 
 ## Analysis and Visualizations
 
-![Number of Jobs by Job Title](https://github.com/pirsarandib/python_project_data_jobs/blob/main/image/1_number%20of%20jobs%20by%20job%20title.png)
+### Number of Jobs by Job Title
+![](https://github.com/pirsarandib/python_project_data_jobs/blob/main/image/1_number%20of%20jobs%20by%20job%20title.png)
 This bar chart visualizes the distribution of job postings across various data roles. The top three roles in demand are:
 
 -- Data Analyst
