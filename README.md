@@ -81,6 +81,7 @@ The salary distribution for Data Analyst roles in the U.S. shows a wide range, w
 
 
 
+
 ### Distribution of Job Schedule Type, Work-from-Home Status, and Health Insurance Benefits
 ![](https://github.com/pirsarandib/python_project_data_jobs/blob/main/image/7_distribution%20of...%20.png)
 
@@ -94,10 +95,12 @@ The distribution analysis reveals that most Data Analyst roles are full-time, wi
 
 
 
+
 ### Top 10 Companies: Number of Remote vs. On-Site Data Analyst Roles 
 ![](https://github.com/pirsarandib/python_project_data_jobs/blob/main/image/8_top%2010%20companies.png)
 
 The analysis of the top 10 companies shows a clear distinction in their hiring strategies for Data Analyst roles. Some companies have a strong focus on remote positions, reflecting a commitment to flexible work environments, while others prioritize on-site roles
+
 
 
 
@@ -108,10 +111,12 @@ A bar chart highlighting the top 5 job posting sources, with LinkedIn being the 
 
 
 
+
 ### Top 5 U.S. Job Locations for Non-Remote Data Analyst Roles
 ![](https://github.com/pirsarandib/python_project_data_jobs/blob/main/image/10_top%20five%20job%20location.png)
 
 This bar chart displays the top 5 U.S. cities for On-Site Data Analyst roles, with New York, Atlanta, and Chicago leading.
+
 
 
 
