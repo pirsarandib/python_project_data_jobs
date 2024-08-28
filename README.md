@@ -26,6 +26,7 @@ This bar chart visualizes the distribution of job postings across various data r
 - **Data Analyst**
 - **Data Engineer**
 - **Data Scientist**
+  
 
 ### Median Salary by Job Title
 ![](https://github.com/pirsarandib/python_project_data_jobs/blob/main/image/2_median%20salary%20by%20job%20title.png)
@@ -35,6 +36,7 @@ This visualization shows the median salary for different job titles. The top thr
 - **Senior Data Scientist**
 - **Senior Data Engineer**
 - **Data Scientist**
+  
 
 ### Top 10 Job Titles: Remote vs. On-site Roles
 ![](https://github.com/pirsarandib/python_project_data_jobs/blob/main/image/3_top%20ten%20companies.png)
@@ -45,10 +47,12 @@ Two side-by-side bar charts compare the top 10 job titles for remote and non-rem
 - **On-Site Jobs**: Data Analyst, Engineer, and Data Scientist are the top 3 roles.
 
 
+
 ### Top 10 Companies: Number of Remote vs. Non-Remote Roles
 ![](https://github.com/pirsarandib/python_project_data_jobs/blob/main/image/4_top%20ten%20job%20titles.png)
 
 This set of bar charts displays the number of remote vs. On-site roles offered by the top 10 companies.
+
 
 
 ### Percentage of Jobs Mentioning Degree Requirements by Job Title
@@ -61,15 +65,19 @@ A detailed analysis of how often degree requirements are mentioned in job postin
 - **Data Scientist (93.98%)**
 - **Machine Learning Engineer (92.80%)**
 
+
 ## Further Analysis: Focus on Data Analyst Roles in the U.S.
 
 After analyzing various data roles, the focus shifts to Data Analyst positions specifically within the United States.
+
 
 
 ### Salary Distribution for Data Analyst Roles in the U.S.
 ![](https://github.com/pirsarandib/python_project_data_jobs/blob/main/image/6_salary%20distribution.png)
 
 The salary distribution for Data Analyst roles in the U.S. shows a wide range, with a significant concentration around the median, indicating typical earnings. The analysis highlights outliers representing high earners, likely tied to specialized skills or high-cost locations. 
+
+
 
 ### Distribution of Job Schedule Type, Work-from-Home Status, and Health Insurance Benefits
 ![](https://github.com/pirsarandib/python_project_data_jobs/blob/main/image/7_distribution%20of...%20.png)
@@ -79,7 +87,9 @@ Three pie charts visualize:
 - **Job Schedule Types** (full-time, contract)
 - **Work-from-Home Status** (true, false)
 - **Health Insurance Benefits** (true, false)
+
 The distribution analysis reveals that most Data Analyst roles are full-time, with a significant portion offering work-from-home options, reflecting the growing trend of remote work. Additionally, a majority of these roles provide health insurance benefits, indicating that employers are competitive in offering comprehensive job packages to attract talent.
+
 
 
 ### Top 10 Companies: Number of Remote vs. On-Site Data Analyst Roles 
@@ -88,10 +98,12 @@ The distribution analysis reveals that most Data Analyst roles are full-time, wi
 The analysis of the top 10 companies shows a clear distinction in their hiring strategies for Data Analyst roles. Some companies have a strong focus on remote positions, reflecting a commitment to flexible work environments, while others prioritize on-site roles
 
 
+
 ### Top 5 Job Posting Sources by Percentage
 ![](https://github.com/pirsarandib/python_project_data_jobs/blob/main/image/9_top%205%20job%20sources.png)
 
 A bar chart highlighting the top 5 job posting sources, with LinkedIn being the leading source.
+
 
 
 ### Top 5 U.S. Job Locations for Non-Remote Data Analyst Roles
@@ -100,10 +112,12 @@ A bar chart highlighting the top 5 job posting sources, with LinkedIn being the 
 This bar chart displays the top 5 U.S. cities for On-Site Data Analyst roles, with New York, Atlanta, and Chicago leading.
 
 
+
 ###  Most Demanded Skills for Data Analyst Roles
 ![](https://github.com/pirsarandib/python_project_data_jobs/blob/main/image/11_most%20demand%20skills.png)
 
 The analysis identifies SQL, Excel, Tableau, Python, and SAS as the most in-demand skills for Data Analyst roles. These skills are crucial for data manipulation, analysis, and visualization
+
 
 
 ## Results
