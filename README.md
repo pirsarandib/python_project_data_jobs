@@ -28,6 +28,7 @@ This bar chart visualizes the distribution of job postings across various data r
 - **Data Scientist**
   
 
+
 ### Median Salary by Job Title
 ![](https://github.com/pirsarandib/python_project_data_jobs/blob/main/image/2_median%20salary%20by%20job%20title.png)
 
@@ -37,6 +38,7 @@ This visualization shows the median salary for different job titles. The top thr
 - **Senior Data Engineer**
 - **Data Scientist**
   
+
 
 ### Top 10 Job Titles: Remote vs. On-site Roles
 ![](https://github.com/pirsarandib/python_project_data_jobs/blob/main/image/3_top%20ten%20companies.png)
@@ -130,6 +132,7 @@ The analysis identifies SQL, Excel, Tableau, Python, and SAS as the most in-dema
 ## Future Work
 - **Advanced Predictive Analysis**: Incorporate machine learning models to predict future job trends and salary changes.
 - **Interactive Dashboards**: Develop interactive dashboards in Power BI.
+
 
 ## Conclusion
 This project provides deep insights into the job market for data roles, particularly focusing on Data Analyst positions in the U.S. The findings are valuable for both job seekers and employers, helping to understand the current landscape and future trends in the data industry.
