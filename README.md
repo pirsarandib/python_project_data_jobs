@@ -61,7 +61,7 @@ This set of bar charts displays the number of remote vs. On-site roles offered b
 ![](https://github.com/pirsarandib/python_project_data_jobs/blob/main/image/5_1%20mentioning%20degree.jpg)
 ![](https://github.com/pirsarandib/python_project_data_jobs/blob/main/image/5_2%20mentioning%20degree.png)
 
-A detailed analysis of how often degree requirements are mentioned in job postings across different roles. The top three roles with the highest percentage of postings that do not mention degree requirements are:
+A detailed analysis of how often degree requirements are mentioned in job postings across different roles. The top three roles with the highest percentage of postings that mention degree requirements are:
 
 - **Senior Data Scientist (94.18%)**
 - **Data Scientist (93.98%)**
